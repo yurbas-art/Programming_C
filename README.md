@@ -1,3 +1,3 @@
 # Programming_C
 # Worked by Melnikov Iurii
-# БИН-24-1
+# ДП-24-1
