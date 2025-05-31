@@ -81,6 +81,4 @@ int main() {
     printf("\n\n");
     return 0;
 }
-// links on site
-// mktime http://cppstudio.com/post/586/
-//https://github.com/irina0519hhhh/programming-C/blob/main/lab%2012
+
